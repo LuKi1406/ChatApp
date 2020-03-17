@@ -1,5 +1,5 @@
 # ChatApp
-Chat app using Ajax,PHP,MySQLi and JQuery
+Chat app using JavaScript,Bootstrap,Ajax,PHP,MySQLi and JQuery
 
 # Opis
 
