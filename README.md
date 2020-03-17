@@ -17,7 +17,7 @@ Baza se sastoji od 3 tablice, users(sprema username i password, password je krip
 #Instalacija
 1.Instalirajte XAMPP ili neki sličan PHP develepment enviroment(ja sam koristila XAMPP)
 2.Uđite u XAMPP Control Panel te za Apache i MySQL kliknite Start
-2.Folder ChatApp kopirajte u XAMPP folder htdocs
+2.Otvorite XAMPP folder htdocs te klonirajte repozitorij unutar njega
 3.Download phpMyAdmin
 4.U browser upišite http://localhost/phpmyadmin
 5.Kreirajte novu bazu imena Database
